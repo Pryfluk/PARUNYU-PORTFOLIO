@@ -22,7 +22,8 @@ Here, you will find projects involving **data processing**, **AI model developme
 
 ### 1. [Student-Graduate-Predictor](https://github.com/Pryfluk/Student-Graduate-Predictor)
 - **Description:** A project that predicts whether a student will graduate on time based on academic and behavioral factors.  
-- **Technologies Used:** Python, Pandas, Scikit-Learn, Matplotlib  
+- **Technologies Used:** Python, Pandas, Scikit-Learn, Matplotlib
+- **ลิงก์ GitHub:** https://github.com/Pryfluk/Student-Graduate-Predictor
 
 ---
 
