@@ -62,11 +62,13 @@
 
 ## 🛠️ ทักษะทางเทคนิค (Technical Skills)
 
-- **Machine Learning & Deep Learning:** Scikit-Learn  
-- **Data Analysis & Processing:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Data Visualization:** Tableau, Power BI  
-- **Programming Languages:** Python, SQL  
-- **Big Data Technologies:** Apache Spark, Hadoop *(กำลังศึกษาเพิ่มเติม)*  
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Machine Learning / Deep Learning** | Scikit-Learn |
+| **Data Analysis / Processing** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Data Visualization** | Tableau, Power BI |
+| **Programming Languages** | Python, SQL |
+| **Big Data (กำลังศึกษาเพิ่มเติม)** | Apache Spark, Hadoop | 
 
 ---
 
