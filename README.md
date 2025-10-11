@@ -53,7 +53,7 @@ Using tools like **Python**, **Scikit-Learn**, **Pandas**, and **SQL** — all o
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Machine Learning / Deep Learning** | TensorFlow, Keras, PyTorch, Scikit-Learn |
+| **Machine Learning / Deep Learning** | Scikit-Learn |
 | **Data Analysis / Processing** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Data Visualization** | Tableau, Power BI |
 | **Programming Languages** | Python, SQL |
@@ -63,7 +63,7 @@ Using tools like **Python**, **Scikit-Learn**, **Pandas**, and **SQL** — all o
 
 ## 📫 Contact Me
 
-- **📧 Email:** [Your Email]  
+- **📧 Email:** parunyu.saet@gmail.com  
 - **💼 LinkedIn:** [Your LinkedIn Profile]  
 - **🌐 Website / Blog:** [Your Website or Blog Link]  
 
