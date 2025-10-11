@@ -2,6 +2,11 @@
 
 # 💼 พอร์ตโฟลิโอ - ภรัณยู แซ่ตั้ง (Parunyu Saetang) | Artificial Intelligence & Data Science
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 ยินดีต้อนรับสู่พอร์ตโฟลิโอส่วนตัวของผม!  
 ผมชื่อ **ภรัณยู แซ่ตั้ง (ฟลุ๊ค)** นักศึกษาสาขา **Artificial Intelligence Engineering and Data Science**  
 จาก **มหาวิทยาลัยกรุงเทพ (Bangkok University)**  
