@@ -31,21 +31,18 @@ Using tools like **Python**, **Scikit-Learn**, **Pandas**, and **SQL** — all o
 ### 1. 🎓 [Student-Graduate-Predictor](https://github.com/Pryfluk/Student-Graduate-Predictor)
 - **Description:** Predicts whether a student will graduate on time based on academic performance and behavioral factors.  
 - **Technologies Used:** Python, Pandas, Scikit-Learn, Matplotlib  
-- **GitHub:** [Student-Graduate-Predictor Repository](https://github.com/Pryfluk/Student-Graduate-Predictor)
+- **GitHub:** [Student-Graduate-Predictor](https://github.com/Pryfluk/Student-Graduate-Predictor)
 
 ---
 
-### 2. 🤖 [Project Name 2]
-- **Description:** A project focusing on big data analytics, AI-driven problem solving, or developing a deep learning model for image classification, language translation, or predictive analysis.  
-- **Technologies Used:** Python, TensorFlow, Keras, NumPy  
-- **GitHub:** [Link to repository]
+### 2. 🤖 [Food Delivery Data Analysis Project]
+- **Description:** A data analytics project comparing GrabFood and Robinhood platforms. The project involves cleaning and processing delivery datasets, calculating averages for delivery time, fees, and food prices, visualizing comparisons through bar charts, pie charts, and scatter plots, and exploring relationships between pricing and ratings..  
+- **Technologies Used:** Python, Pandas, NumPy, Matplotlib 
+- **GitHub:** [[Food Delivery Data Analysis Project](https://github.com/Pryfluk/Food-Delivery-Data-Analysis-Project)]
 
 ---
 
-### 3. 📊 [Project Name 3]
-- **Description:** A project involving data management using SQL/NoSQL, data visualization, or applying AI to enhance business decision-making.  
-- **Technologies Used:** SQL, Tableau, Python, Jupyter Notebook  
-- **GitHub:** [Link to repository]
+
 
 ---
 
