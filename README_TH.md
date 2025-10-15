@@ -39,16 +39,14 @@
 ### 1. [Student-Graduate-Predictor]
 - **คำอธิบาย:** โปรเจกต์นี้มีวัตถุประสงค์เพื่อทำนายว่านักศึกษาจะสามารถจบการศึกษาได้ตามกำหนดหรือไม่ โดยอ้างอิงจากปัจจัยด้านการเรียนและพฤติกรรม  
 - **เทคโนโลยีที่ใช้:** Python, Pandas, Scikit-Learn, Matplotlib  
-- **ลิงก์ GitHub:** [Student-Graduate-Predictor Repository](https://github.com/Pryfluk/Student-Graduate-Predictor)
+- **ลิงก์ GitHub:** [Student-Graduate-Predictor](https://github.com/Pryfluk/Student-Graduate-Predictor)
 
 ---
 
-### 2. [ชื่อโปรเจกต์ 2]
-- **คำอธิบาย:** โปรเจกต์ที่เกี่ยวข้องกับการวิเคราะห์ข้อมูลขนาดใหญ่ (Big Data),  
-  การนำ AI มาช่วยแก้ปัญหาเชิงลึก หรือการพัฒนาโมเดล Deep Learning  
-  สำหรับงานเฉพาะ เช่น การจำแนกภาพ, การแปลภาษา, หรือการทำนายผลล่วงหน้า  
-- **เทคโนโลยีที่ใช้:** Python, TensorFlow, Keras, NumPy  
-- **ลิงก์ GitHub:** [Link to repository]
+### 2. [Food Delivery Data Analysis Project]
+- **คำอธิบาย:** โปรเจกต์วิเคราะห์ข้อมูลเปรียบเทียบแพลตฟอร์ม GrabFood และ Robinhood โดยทำความสะอาดและประมวลผลชุดข้อมูลการจัดส่ง คำนวณค่าเฉลี่ยของเวลาจัดส่ง ค่าจัดส่ง และราคาอาหาร พร้อมสร้างการแสดงผลข้อมูลด้วยกราฟแท่ง กราฟวงกลม และกราฟกระจาย เพื่อศึกษาความสัมพันธ์ระหว่างราคาอาหารและคะแนนเรทติ้ง  
+- **เทคโนโลยีที่ใช้:** Python, Pandas, NumPy, Matplotlib
+- **ลิงก์ GitHub:** [Food Delivery Data Analysis Project](https://github.com/Pryfluk/Food-Delivery-Data-Analysis-Project)
 
 ---
 
