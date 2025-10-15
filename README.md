@@ -38,7 +38,7 @@ Using tools like **Python**, **Scikit-Learn**, **Pandas**, and **SQL** — all o
 ### 2. 🤖 [Food Delivery Data Analysis Project]
 - **Description:** A data analytics project comparing GrabFood and Robinhood platforms. The project involves cleaning and processing delivery datasets, calculating averages for delivery time, fees, and food prices, visualizing comparisons through bar charts, pie charts, and scatter plots, and exploring relationships between pricing and ratings..  
 - **Technologies Used:** Python, Pandas, NumPy, Matplotlib 
-- **GitHub:** [[Food Delivery Data Analysis Project](https://github.com/Pryfluk/Food-Delivery-Data-Analysis-Project)]
+- **GitHub:** [Food Delivery Data Analysis Project](https://github.com/Pryfluk/Food-Delivery-Data-Analysis-Project)
 
 ---
 
