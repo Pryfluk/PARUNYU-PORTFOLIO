@@ -50,6 +50,12 @@
 
 ---
 
+### 3. [End-to-End Data Pipeline & Business Dashboard Project]
+- **คำอธิบาย:**  โครงงานด้านวิศวกรรมข้อมูลและการวิเคราะห์ข้อมูลแบบครบกระบวนการ (End-to-End) โดยพัฒนา Data Pipeline อัตโนมัติ ตั้งแต่การนำเข้าข้อมูลดิบจากชุดข้อมูล Kaggle ในรูปแบบไฟล์ CSV ลงสู่ฐานข้อมูล PostgreSQL จากนั้นทำความสะอาดและแปลงข้อมูลด้วยภาษา Python และ Pandas ก่อนเผยแพร่ข้อมูลที่ผ่านการประมวลผล                  ไปยัง Google Sheets และนำไปสร้างแดชบอร์ดสำหรับการวิเคราะห์เชิงธุรกิจผ่าน Looker Studio เพื่อแสดงตัวชี้วัดและอินไซต์ที่สำคัญ
+- **เทคโนโลยีที่ใช้:**  Python, Pandas, PostgreSQL, Google Sheets API (gspread), Looker Studio
+- **ลิงก์ GitHub:**  [End-to-End Data Pipeline & Business Dashboard Project](https://github.com/Pryfluk/End-to-End-Data-Pipeline-)
+
+
 
 
 ---
