@@ -45,7 +45,7 @@ Using tools like **Python**, **Scikit-Learn**, **Pandas**, and **SQL** — all o
 ### 3. 🧠 [End-to-End Data Pipeline & Business Dashboard Project]
 - **Description:** AAn end-to-end data engineering and analytics project that builds an automated data pipeline from Kaggle datasets to a business intelligence dashboard. The project involves ingesting raw CSV data into PostgreSQL, cleaning and transforming data using Python and Pandas, publishing processed data to Google Sheets, and visualizing key business metrics and insights through an interactive Looker Studio dashboard.  
 - **Technologies Used:** Python, Pandas, PostgreSQL, SQLAlchemy, Google Sheets API (gspread), Looker Studio 
-- **GitHub:** [Food Delivery Data Analysis Project](https://github.com/Pryfluk/warehouse-retail-sales-pipeline)
+- **GitHub:** [End-to-End Data Pipeline & Business Dashboard Project](https://github.com/Pryfluk/warehouse-retail-sales-pipeline)
 
 
 ---
