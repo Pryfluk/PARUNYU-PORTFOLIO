@@ -68,8 +68,8 @@ Using tools like **Python**, **Scikit-Learn**, **Pandas**, and **SQL** — all o
 ## 📫 Contact Me
 
 - **📧 Email:** parunyu.saet@gmail.com  
-- **💼 LinkedIn:** [Your LinkedIn Profile]  
-- **🌐 Website / Blog:** [Your Website or Blog Link]  
+- **💼 LinkedIn:** [www.linkedin.com/in/parunyu-saetang]  
+- **🌐 Website / Blog:**
 
 ---
 
